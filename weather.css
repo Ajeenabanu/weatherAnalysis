@@ -1,0 +1,17 @@
+#bgd{
+    background-image:url(parachoot.jpg);
+    background-size: cover; 
+}
+#side,input{
+padding-top: 1%;
+background-color: transparent;
+border: none;
+outline: none;
+}
+hr{
+    color: white;
+    margin-bottom: 10%;
+}
+#search{
+    margin-bottom: 20%;
+}
